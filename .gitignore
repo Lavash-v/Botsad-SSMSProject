@@ -1,0 +1,7 @@
+# Visual Studio / SSMS
+.vs/
+*.vsidx
+*.sqlite
+VSWorkspaceState.json
+*.user
+*.suo
